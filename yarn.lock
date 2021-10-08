@@ -1373,10 +1373,10 @@ find-up@^4.0.0:
     locate-path "^5.0.0"
     path-exists "^4.0.0"
 
-find-up@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/find-up/-/find-up-6.0.0.tgz#7e321c34ecfea17dfffc4d78017bb025b9dfff71"
-  integrity sha512-NU20P/qRR4fbjbfQgf5SL6L7AbQbUG69OmBJ3o+DEmHwSwKaaeZ+9ok/zuE5Z8pyFSGPerTen16gLZTs1v1zjQ==
+find-up@^6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/find-up/-/find-up-6.2.0.tgz#f3b81d633fa83bebe64f83a8bab357f86d5914be"
+  integrity sha512-yWHzMzXCaFoABSnFTCPKNFlYoq4mSga9QLRRKOCLSJ33hSkzROB14ITbAWW0QDQDyuzsPQ33S1DsOWQb/oW1yA==
   dependencies:
     locate-path "^7.0.0"
     path-exists "^5.0.0"
